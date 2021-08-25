@@ -77,3 +77,6 @@ class Calculator:
     def calc(cls, arg1, arg2):
         return f'{arg1} / {arg2}', arg1 / arg2 if arg2 != 0 else 0
 ```
+
+## 参考
+https://remix-yh.net/1376/
